@@ -5,6 +5,8 @@ This template provides a minimal setup to get React working in Vite with HMR and
 This is a simple react project using the usecase() Hook.
 
 To start with the project first create and install the plugins and node modules using the following command :-
+
+
 npm init vite
 select react and javavscript
 npm install
