@@ -2,7 +2,7 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-This is a simple react project using the usecase() Hook.
+This is a simple react project using the useState() Hook.
 
 To start with the project first create and install the plugins and node modules using the following command :-
 
